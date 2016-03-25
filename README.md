@@ -1,5 +1,4 @@
-# pingpp-gradle
-ping++ 实现gradle配置
+# ping++ 加入gradle实现
 
 ```groovy
 dependencies {
